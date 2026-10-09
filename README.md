@@ -7,6 +7,12 @@ networking — SIEM deployment, endpoint monitoring, network design, and
 incident response. Currently targeting SOC Analyst and junior security
 engineering roles.
 
+## Professional Background
+
+I bring 28+ years of combined experience as a Navy Corpsman and Certified Peer Specialist, including Veteran-centered work in a Department of Veterans Affairs clinical setting. My work included active listening, mentorship and advocacy, helping Veterans navigate services, supporting wellness goals, facilitating groups, and using trained communication and de-escalation during difficult situations. I also worked as part of an interdisciplinary care team and followed professional ethics, confidentiality, and boundaries.
+
+I’m making a career switch into IT and building hands-on cybersecurity experience through home labs in SIEM operations, networking, Linux security, and GRC. My previous work informs how I approach that learning: listen carefully, assess what’s happening, communicate clearly, follow appropriate processes, and involve the right people when something needs escalation. Healthcare and peer-support crisis work is not cybersecurity incident response; those are distinct kinds of experience.
+
 ---
 
 ## 🎯 Featured Projects
@@ -90,6 +96,12 @@ repository. Study materials are labeled separately from hands-on labs.
 - [k_r_shepherd_linux-networking-fundamentals](https://github.com/shepdogg6t7-glitch/k_r_shepherd_linux-networking-fundamentals) — Linux networking labs
 - [shep_linux-netsec-grc-labs](https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs) — Linux/netsec/GRC labs
 - [docker-desktop-k8s-setup-log](https://github.com/shepdogg6t7-glitch/docker-desktop-k8s-setup-log) — Kubernetes setup notes
+
+---
+
+## 🏆 GitHub Achievement
+
+**YOLO** — a GitHub achievement, not a certification or skill.
 
 ---
 
