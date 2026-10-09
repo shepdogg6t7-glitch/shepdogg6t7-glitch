@@ -41,6 +41,24 @@ a deliberate troubleshooting exercise that simulates a real support ticket.
 
 ---
 
+## 🧊 Cybersecurity Iceberg: Project Overlap
+
+This is a guide to topics my projects touch—not a claim of expertise. One project
+can overlap several areas; the examples below point to work or artifacts in each
+repository. Study materials are labeled separately from hands-on labs.
+
+| Project | Overlapping areas | What I did / example evidence |
+| --- | --- | --- |
+| [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab) | Security operations, SIEM, endpoint monitoring, incident triage | Deployed Wazuh in Docker, enrolled an Ubuntu agent, documented troubleshooting and credential hardening, and scripted volume backups. |
+| [Linux Networking + GRC Labs](https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs) | Network security, packet analysis, auditing, risk and controls | Saved lab outputs for `tcpdump` packet capture and `ufw` firewall checks; ran a Lynis/CIS audit, generated a CSV audit report, and mapped findings to a risk register and control frameworks. |
+| [Lone Star Logistics — Multi-Site Network](https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer) | Network infrastructure, routing, troubleshooting | Designed a three-site Packet Tracer network with OSPF, static routes, and DHCP relay; used extended ping and traceroute to diagnose a simulated connectivity issue. |
+| [Lone Star Logistics — GRC Portfolio](https://github.com/shepdogg6t7-glitch/lone-star-logistics-grc-portfolio) | Governance, risk, compliance, policies, incident response | Created a fictional-company case study with NIST CSF v2.0-mapped policies, a risk register, a CIS-based audit checklist, and an incident register. |
+| Self-hosted infrastructure: [Docker + Portainer](https://github.com/shepdogg6t7-glitch/docker-portainer-homelab), [Uptime Kuma](https://github.com/shepdogg6t7-glitch/uptime-kuma-homelab), [Vaultwarden](https://github.com/shepdogg6t7-glitch/vaultwarden-homelab), [Nginx Proxy Manager](https://github.com/shepdogg6t7-glitch/nginx-proxy-manager-homelab) | Systems administration, service monitoring, password management, reverse proxy and HTTPS | Deployed containerized services through Portainer on WSL2: uptime checks and alerts, a self-hosted password manager, and domain routing with HTTPS certificate management. |
+| [AtlasOps](https://github.com/shepdogg6t7-glitch/atlasops) | Technical breadth: document processing, semantic search, data systems | The repository covers a self-hostable document platform with PDF ingestion, vector search, and an event-driven pipeline. This shows software and infrastructure work, not cybersecurity evidence. |
+| Study and learning: [Network+ N10-009 study guide](https://github.com/shepdogg6t7-glitch/N10-009-Domain2-Study), [Linux networking fundamentals](https://github.com/shepdogg6t7-glitch/k_r_shepherd_linux-networking-fundamentals) | Networking concepts and fundamentals | These repositories are study/learning materials, not evidence of completed practical labs. |
+
+---
+
 ## 🛠️ Skills & Tools
 
 **Security Operations:**
