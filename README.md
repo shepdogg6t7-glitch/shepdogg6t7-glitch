@@ -14,33 +14,30 @@ I’m making a career switch into IT and building hands-on cybersecurity experie
 
 ## 🎯 Featured Projects
 
-```text
-Projects
-├── Networking
-│   └── [Lone Star Logistics — Multi-Site Network](https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer)
-│       └── Routing, switching, troubleshooting
-├── Security / GRC
-│   └── [Linux Networking + GRC Labs](https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs)
-│       └── Linux hardening, risk registers, framework mapping
-├── SIEM / SOC
-│   └── [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
-│       └── Detection and monitoring
-├── Cloud / FinOps
-│   └── [Azure Cost Watchdog](https://github.com/shepdogg6t7-glitch/azure-cost-watchdog)
-│       └── Python, Azure API, secure automation
-└── Software Engineering
-    └── [AtlasOps Fullstack](https://github.com/shepdogg6t7-glitch/atlasops-fullstack)
-        └── FastAPI, Next.js, pgvector, Docker
-```
+**Networking**
+- [Lone Star Logistics — Multi-Site Network](https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer) — Routing, switching, troubleshooting
+
+**Security / GRC**
+- [Linux Networking + GRC Labs](https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs) — Linux hardening, risk registers, framework mapping
+
+**SIEM / SOC**
+- [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab) — Detection and monitoring
+
+**Cloud / FinOps**
+- [Azure Cost Watchdog](https://github.com/shepdogg6t7-glitch/azure-cost-watchdog) — Python, offline cost audit, guardrails, 110 tests
+- [AKS Platform](https://github.com/shepdogg6t7-glitch/aks-platform) — Terraform, AKS
+
+**Software Engineering**
+- [AtlasOps Fullstack](https://github.com/shepdogg6t7-glitch/atlasops-fullstack) — FastAPI, Next.js, pgvector, Docker
 
 ### 🛡️ [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
 
-A full Wazuh SIEM deployment in Docker on WSL 2, with a monitored Ubuntu endpoint, automated backups, and a documented credential-hardening process.
+A full Wazuh SIEM deployment in Docker on WSL 2, with a monitored Ubuntu endpoint, scripted backups, and a documented credential-hardening process.
 
 - **Deployed:** Wazuh 4.9.0 (Indexer, Manager, Dashboard) on Docker
 - **Onboarded:** Ubuntu 22.04 endpoint as a Wazuh agent
 - **Hardened:** Rotated default credentials using `securityadmin.sh`; documented three real failure modes
-- **Backed up:** Scripted backup of 14 Docker volumes to external storage
+- **Backed up:** Scripted backup of 13 Docker volumes to external storage
 - **Documented:** 6 milestones + screenshots in a structured `docs/` folder
 
 `Docker` `Wazuh` `SIEM` `Ubuntu` `WSL 2` `Security Operations`
