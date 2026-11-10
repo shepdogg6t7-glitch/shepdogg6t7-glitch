@@ -14,24 +14,17 @@ I’m making a career switch into IT and building hands-on cybersecurity experie
 
 ## 🎯 Featured Projects
 
-```text
-Projects
+<pre>Projects
 ├── Networking
-│   └── [Lone Star Logistics — Multi-Site Network](https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer)
-│       └── Routing, switching, troubleshooting
+│   └── <a href="https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer">Lone Star Logistics</a> — Routing, switching, troubleshooting | Cisco Packet Tracer, OSPF, DHCP
 ├── Security / GRC
-│   └── [Linux Networking + GRC Labs](https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs)
-│       └── Linux hardening, risk registers, framework mapping
+│   └── <a href="https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs">shep_linux-netsec-grc-labs</a> — Linux hardening, risk registers, framework mapping | Linux, tcpdump, UFW, Lynis, CIS
 ├── SIEM / SOC
-│   └── [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
-│       └── Detection and monitoring
+│   └── <a href="https://github.com/shepdogg6t7-glitch/wazuh-home-lab">Wazuh Home Lab</a> — Detection and monitoring | Wazuh, Docker, Ubuntu
 ├── Cloud / FinOps
-│   └── [Azure Cost Watchdog](https://github.com/shepdogg6t7-glitch/azure-cost-watchdog)
-│       └── Python, Azure API, secure automation
+│   └── <a href="https://github.com/shepdogg6t7-glitch/azure-cost-watchdog">azure-cost-watchdog</a> — Cost monitoring and secure automation | Python, Azure API
 └── Software Engineering
-    └── [AtlasOps](https://github.com/shepdogg6t7-glitch/atlasops)
-        └── FastAPI, Next.js, pgvector, Docker
-```
+    └── <a href="https://github.com/shepdogg6t7-glitch/atlasops-fullstack">AtlasOps Fullstack</a> — Full-stack application | FastAPI, Next.js, pgvector, Docker</pre>
 
 ### 🛡️ [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
 
