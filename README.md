@@ -1,24 +1,37 @@
-# Hi, I'm Kelvin 👋
+# Kelvin Shepherd
 
-I am an IT and Cybersecurity professional focused on **Cloud Engineering, GRC (Governance, Risk, and Compliance), and DevSecOps**. I build practical, documented projects that bridge foundational concepts with hands-on IT and cybersecurity workflows.
+**Aspiring SOC Analyst** | Home lab builder | Networking + Security Operations
+
+I'm building a portfolio of hands-on projects in security operations and networking — SIEM deployment, endpoint monitoring, network design, and incident response. Currently targeting SOC Analyst and junior security engineering roles.
+
+## Professional Background
 
 I bring 28+ years of combined experience as a Navy Corpsman and Certified Peer Specialist, including Veteran-centered work in a Department of Veterans Affairs clinical setting. My work included active listening, mentorship and advocacy, helping Veterans navigate services, supporting wellness goals, facilitating groups, and using trained communication and de-escalation during difficult situations. I also worked as part of an interdisciplinary care team and followed professional ethics, confidentiality, and boundaries.
 
 I’m making a career switch into IT and building hands-on cybersecurity experience through home labs in SIEM operations, networking, Linux security, and GRC. My previous work informs how I approach that learning: listen carefully, assess what’s happening, communicate clearly, follow appropriate processes, and involve the right people when something needs escalation. Healthcare and peer-support crisis work is not cybersecurity incident response; those are distinct kinds of experience.
 
+---
+
 ## 🎯 Featured Projects
 
-<pre>Projects
+```text
+Projects
 ├── Networking
-│   └── <a href="https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer">Lone Star Logistics</a> — Routing, switching, troubleshooting | Cisco Packet Tracer, OSPF, DHCP
+│   └── [Lone Star Logistics — Multi-Site Network](https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer)
+│       └── Routing, switching, troubleshooting
 ├── Security / GRC
-│   └── <a href="https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs">shep_linux-netsec-grc-labs</a> — Linux hardening, risk registers, framework mapping | Linux, tcpdump, UFW, Lynis, CIS
+│   └── [Linux Networking + GRC Labs](https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs)
+│       └── Linux hardening, risk registers, framework mapping
 ├── SIEM / SOC
-│   └── <a href="https://github.com/shepdogg6t7-glitch/wazuh-home-lab">Wazuh Home Lab</a> — Detection and monitoring | Wazuh, Docker, Ubuntu
+│   └── [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
+│       └── Detection and monitoring
 ├── Cloud / FinOps
-│   └── <a href="https://github.com/shepdogg6t7-glitch/azure-cost-watchdog">azure-cost-watchdog</a> — Cost monitoring and secure automation | Python, Azure API
+│   └── [Azure Cost Watchdog](https://github.com/shepdogg6t7-glitch/azure-cost-watchdog)
+│       └── Python, Azure API, secure automation
 └── Software Engineering
-    └── <a href="https://github.com/shepdogg6t7-glitch/atlasops-fullstack">AtlasOps Fullstack</a> — Full-stack application | FastAPI, Next.js, pgvector, Docker</pre>
+    └── [AtlasOps Fullstack](https://github.com/shepdogg6t7-glitch/atlasops-fullstack)
+        └── FastAPI, Next.js, pgvector, Docker
+```
 
 ### 🛡️ [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
 
@@ -85,8 +98,8 @@ A three-site hub-and-spoke network designed in Cisco Packet Tracer, with a delib
 ## 📫 Reach Me
 
 - **GitHub:** [@shepdogg6t7-glitch](https://github.com/shepdogg6t7-glitch)
-- **LinkedIn:** Kelvin Shepherd
-- **Email:** kelvinshepherd@gmail.com
+- **LinkedIn:** [Kelvin Shepherd](https://www.linkedin.com/in/kelvin-shepherd-423a7a15/)
+- **Email:** [kelvinshepherd@gmail.com](mailto:kelvinshepherd@gmail.com)
 - **Based in:** Texas
 - **Open to:** SOC Analyst roles, junior security engineering, IT security
 
