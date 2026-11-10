@@ -2,10 +2,7 @@
 
 **Aspiring SOC Analyst** | Home lab builder | Networking + Security Operations
 
-I'm building a portfolio of hands-on projects in security operations and
-networking — SIEM deployment, endpoint monitoring, network design, and
-incident response. Currently targeting SOC Analyst and junior security
-engineering roles.
+I'm building a portfolio of hands-on projects in security operations and networking — SIEM deployment, endpoint monitoring, network design, and incident response. Currently targeting SOC Analyst and junior security engineering roles.
 
 ## Professional Background
 
@@ -17,10 +14,28 @@ I’m making a career switch into IT and building hands-on cybersecurity experie
 
 ## 🎯 Featured Projects
 
+```text
+Projects
+├── Networking
+│   └── [Lone Star Logistics — Multi-Site Network](https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer)
+│       └── Routing, switching, troubleshooting
+├── Security / GRC
+│   └── [Linux Networking + GRC Labs](https://github.com/shepdogg6t7-glitch/shep_linux-netsec-grc-labs)
+│       └── Linux hardening, risk registers, framework mapping
+├── SIEM / SOC
+│   └── [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
+│       └── Detection and monitoring
+├── Cloud / FinOps
+│   └── [Azure Cost Watchdog](https://github.com/shepdogg6t7-glitch/azure-cost-watchdog)
+│       └── Python, Azure API, secure automation
+└── Software Engineering
+    └── [AtlasOps](https://github.com/shepdogg6t7-glitch/atlasops)
+        └── FastAPI, Next.js, pgvector, Docker
+```
+
 ### 🛡️ [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
 
-A full Wazuh SIEM deployment in Docker on WSL 2, with a monitored Ubuntu
-endpoint, automated backups, and a documented credential-hardening process.
+A full Wazuh SIEM deployment in Docker on WSL 2, with a monitored Ubuntu endpoint, automated backups, and a documented credential-hardening process.
 
 - **Deployed:** Wazuh 4.9.0 (Indexer, Manager, Dashboard) on Docker
 - **Onboarded:** Ubuntu 22.04 endpoint as a Wazuh agent
@@ -34,8 +49,7 @@ endpoint, automated backups, and a documented credential-hardening process.
 
 ### 🌐 [Lone Star Logistics — Multi-Site Network](https://github.com/shepdogg6t7-glitch/Lone-Star-Logistics-Network-Upgrade-Cisco-Packet-Tracer)
 
-A three-site hub-and-spoke network designed in Cisco Packet Tracer, with
-a deliberate troubleshooting exercise that simulates a real support ticket.
+A three-site hub-and-spoke network designed in Cisco Packet Tracer, with a deliberate troubleshooting exercise that simulates a real support ticket.
 
 - **Designed:** Hub-and-spoke topology across three sites
 - **Configured:** Static routing, DHCP relay (`ip helper-address`), and OSPF Area 0
@@ -49,9 +63,7 @@ a deliberate troubleshooting exercise that simulates a real support ticket.
 
 ## 🧊 Cybersecurity Iceberg: Project Overlap
 
-This is a guide to topics my projects touch—not a claim of expertise. One project
-can overlap several areas; the examples below point to work or artifacts in each
-repository. Study materials are labeled separately from hands-on labs.
+This is a guide to topics my projects touch—not a claim of expertise. One project can overlap several areas; the examples below point to work or artifacts in each repository. Study materials are labeled separately from hands-on labs.
 
 | Project | Overlapping areas | What I did / example evidence |
 | --- | --- | --- |
@@ -67,16 +79,16 @@ repository. Study materials are labeled separately from hands-on labs.
 
 ## 🛠️ Skills & Tools
 
-**Security Operations:**
+**Security Operations:**  
 `Wazuh` `SIEM` `Log Analysis` `Endpoint Monitoring` `Incident Triage`
 
-**Networking:**
+**Networking:**  
 `TCP/IP` `Static & Dynamic Routing` `OSPF` `DHCP` `VLANs` `Cisco IOS`
 
-**Systems:**
+**Systems:**  
 `Linux (Ubuntu)` `Docker` `WSL 2` `Bash` `Windows 11`
 
-**Governance & Risk:**
+**Governance & Risk:**  
 `GRC fundamentals` `NIST 800-53` `PCI DSS` `HIPAA`
 
 ---
