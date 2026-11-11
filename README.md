@@ -28,7 +28,7 @@ I’m making a career switch into IT and building hands-on cybersecurity experie
 - [AKS Platform](https://github.com/shepdogg6t7-glitch/aks-platform) — Terraform, AKS
 
 **Software Engineering**
-- [AtlasOps Fullstack](https://github.com/shepdogg6t7-glitch/atlasops-fullstack) — FastAPI, Next.js, pgvector, Docker
+- [AtlasOps](https://github.com/shepdogg6t7-glitch/atlasops) — FastAPI, Next.js, pgvector, Docker
 
 ### 🛡️ [Wazuh Home Lab](https://github.com/shepdogg6t7-glitch/wazuh-home-lab)
 
@@ -84,6 +84,7 @@ A three-site hub-and-spoke network designed in Cisco Packet Tracer, with a delib
 
 ## 📂 Other Repos
 
+- [atlasops-fullstack](https://github.com/shepdogg6t7-glitch/atlasops-fullstack) — ServiceNow ITSM + CMDB sandbox for GRC labs
 - [N10-009-Domain2-Study](https://github.com/shepdogg6t7-glitch/N10-009-Domain2-Study) — CompTIA Network+ study guide
 - [lone-star-logistics-grc-portfolio](https://github.com/shepdogg6t7-glitch/lone-star-logistics-grc-portfolio) — GRC portfolio (Python)
 - [k_r_shepherd_linux-networking-fundamentals](https://github.com/shepdogg6t7-glitch/k_r_shepherd_linux-networking-fundamentals) — Linux networking labs
