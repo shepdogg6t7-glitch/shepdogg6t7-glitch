@@ -50,7 +50,7 @@ I'm making a career switch into IT and building cybersecurity experience through
 ## Other repositories
 
 - [N10-009-Domain2-Study](https://github.com/shepdogg6t7-glitch/N10-009-Domain2-Study) — CompTIA Network+ study guide
-- [lone-star-logistics-grc-portfolio](https://github.com/shepdogg6t7-glitch/lone-star-logistics-grc-portfolio) — GRC portfolio (Python)
+- [lone-star-logistics-grc-portfolio](https://github.com/shepdogg6t7-glitch/lone-star-logistics-grc-portfolio) — GRC portfolio (Python); empty placeholder repo, not yet populated
 - [k_r_shepherd_linux-networking-fundamentals](https://github.com/shepdogg6t7-glitch/k_r_shepherd_linux-networking-fundamentals) — Linux networking labs
 - [docker-desktop-k8s-setup-log](https://github.com/shepdogg6t7-glitch/docker-desktop-k8s-setup-log) — Kubernetes setup notes
 
